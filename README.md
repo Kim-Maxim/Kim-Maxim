@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Maxim or Max. And I glad to see you on my channel!
 ![Header](https://github.com/Kim-Maxim/Kim-Maxim/blob/main/assets/_6DvKSeOBn8.jpg)
 <!--
+![Profile_views](https://komarev.com/ghpvc/?username=kim-maxim&color=green&style=for-the-badge)
+
 **Kim-Maxim/Kim-Maxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
