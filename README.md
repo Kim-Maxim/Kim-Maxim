@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Maxim or Max. And I glad to see you on my channel!
-![Header](https://github.com/Kim-Maxim/Kim-Maxim/blob/main/assets/_6DvKSeOBn8.jpg
+![Header](https://github.com/Kim-Maxim/Kim-Maxim/blob/main/assets/_6DvKSeOBn8.jpg)
 <!--
 **Kim-Maxim/Kim-Maxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
