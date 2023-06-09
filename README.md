@@ -1,4 +1,8 @@
-### Hi there 👋 My name is Maxim. And I glad to see you on my channel!
+### Hi there 👋 
+
+My name is Maxim :grin: 
+And I glad to see you on my channel :wink:
+
 ![Header](https://github.com/Kim-Maxim/Kim-Maxim/blob/main/assets/_6DvKSeOBn8.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual%2Bauto))](https://git.io/typing-svg)
