@@ -18,7 +18,7 @@
 
 Мой принцип: Настоящие знания мы получаем, когда ищем ответ на вопрос, а не когда узнаем сам ответ - Ллойд Александр
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-maxim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/kim-maxim/github-profile-trophy)
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
